@@ -1,0 +1,377 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+
+
+.title {
+    margin: 70px 0px 0px 0px;
+
+}
+
+.title h2 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.assist {
+    color: #D7FF00;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.elementor-widget-container {
+    padding: 0px 100px 0px 100px;
+}
+
+
+.elementor-button {
+    fill: #000000;
+    color: #000000;
+    background-color: #D7FF00;
+    font-weight: 400;
+    display: inline-block;
+    line-height: 1;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-radius: 3px;
+    text-align: center;
+    transition: all .3s;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.elementor-button2 {
+    fill: #000000;
+    color: #000000;
+    background-color: #FFFFFF;
+    font-weight: 400;
+    display: inline-block;
+    line-height: 1;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-radius: 3px;
+    text-align: center;
+    transition: all .3s;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.content {
+    padding: 40px 0px;
+    max-width: 890px;
+    width: 100%;
+    margin: auto;
+}
+
+.content h2{
+    color: #FFFFFF; 
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+ 
+}
+
+.content  h1{
+    color: #FFFFFF; 
+    font-size: 30px;
+    font-weight: 700;
+}
+.calma{
+    max-width: 890px;
+    width: 100%;
+    margin: auto;
+}
+.calma h1{
+    margin: 40px 0px 0px 0px;
+    color: #D7FF00; 
+    font-size: 40px;
+    font-weight: 900;
+}
+.calma  h2{
+    color: #FFFFFF; 
+    font-size: 21px;
+    font-weight: 600;
+}
+.calma h3{
+    color: #FFFFFF; 
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    margin: -15px 100px 0px 100px;
+}
+
+.cards-section{
+    padding: 40px 0px;
+}
+.como{
+    color: #FFFFFF; 
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.cardd{
+    padding: 10px 10px 10px 10px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 20px 20px 20px 20px;
+    height: 100%;
+}
+  .elementor-icon {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    font-size: 30px;
+}
+  .elementor-icon svg {
+    width: 1em;
+    height: 1em;
+    position: relative;
+    display: block;
+}
+
+.elementor-icon-box-title{
+    color: #D7FF00;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 800;
+    margin-block-start: .5rem;
+    margin-block-end: 1rem;
+}
+
+.elementor-icon-box-description{
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+
+.como-section{
+    padding: 40px 0px;
+}
+
+
+.e-con-inner{
+    max-width: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px 0px;
+    margin: auto;
+}
+
+.bttnn{
+    width: 100%;
+    background-color: #D7FF00;
+    min-height: 52px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+ 
+
+.bttnn h2{
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    margin: 0;
+    text-align: center;
+}
+
+
+.des{
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+
+.usar{
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    margin: 0;
+}
+
+.title2{
+    color: #D7FF00;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 1;
+    margin: 0;
+
+}
+
+.realidade{
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+
+.price-card{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: 2px solid #D7FF00;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.price-card h2{
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.elementor-icon-list-itemss{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.elementor-icon-list-item{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    position: relative;
+}
+
+.elementor-icon-list-itemsss{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    position: relative;
+}
+  .elementor-icon-list-icon svg {
+    fill: #D7FF00;
+    transition: fill 0.3s;
+    width: 14px;
+    height: 14px;
+}
+.elementor-icon-list-item::after{
+    content: "";
+    border-color: #ddd; 
+    border-top-style: solid;
+    border-top-width: 1px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.elementor-icon-list-text{
+    font-family: "Roboto", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    color: #9E9E9E;
+    transition: color 0.3s;
+}
+
+.price{
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 70px;
+    font-weight: 900;
+    line-height: 25px;
+    margin: 44px 0px 0px 0px;
+    padding: 6px 0px 0px 0px;
+}
+.price2{
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 70px;
+    font-weight: 900;
+    line-height: 25px;
+    margin: 0;
+    padding: 10px 0px 0px 0px;
+  
+}
+.price-des{
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 30px;
+    margin: 0px 0px -15px 0px;
+}
+.price-des1{
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 30px;
+    margin: 0;
+
+}
+a{
+    cursor: pointer;
+}
+.elementor-widget-container2{
+    padding: 45px 0px 0px 0px;
+}
+.elementor-button:hover{
+    color: black;
+}
+
+.bottom-btn{
+    display: flex;
+    justify-content: center;
+    padding: 100px 0px;
+}
+
+ 
+
+@media(max-width:890px) {
+    .content ,.calma { 
+        max-width: 100%;
+        width: 100%;
+
+    }
+    
+}
+@media(max-width:700px) {
+    .e-con-inner{
+        max-width: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        padding: 20px 0px;
+        margin: auto;
+    }
+    .marig{
+        margin: 0px 100px 0px 100px;
+    }
+}
+@media(max-width:500px){
+    .row{
+        gap: 20px;
+    }
+}
